@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/lulv3z/AnimationKit">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -17,17 +17,17 @@
     <a href="https://github.com/lulv3z/AnimationKit"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">Download</a>
+    <a href="https://github.com/lulv3z/AnimationKit">Download</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/lulv3z/AnimationKit/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/lulv3z/AnimationKit/issues">Request Feature</a>
   </p>
 </div>
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS 
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -52,13 +52,15 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+-->
+
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) --->
 
 AnimationKit is a powerful library that provides a collection of animation effects for WinForms applications. Whether you're building a desktop application or a custom user interface, AnimationKit offers an easy way to incorporate visually appealing animations to enhance the user experience.
 
