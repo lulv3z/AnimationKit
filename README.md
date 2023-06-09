@@ -90,27 +90,27 @@ We hope AnimationKit will help you bring your WinForms applications to life with
 To use the AnimationKit library in your WinForms project, follow these steps:
 
 1. Import the relevant namespaces into your form:
-   ```csharp
-   using AnimationKit;
-   ```
+```csharp
+using AnimationKit;
+```
    
 2. Create an instance of the desired animation class in your form:
-  ```csharp
-  private BlendOutAnimation blendOutAnimation;
-  ```
+```csharp
+private BlendOutAnimation blendOutAnimation;
+```
   
 3. Initialize the animation object in your form's constructor or load event:
-  ```csharp
-  blendOutAnimation = new BlendOutAnimation(this, 1000, 50);
-  ```
+```csharp
+blendOutAnimation = new BlendOutAnimation(this, 1000, 50);
+```
   
 4. Start the animation when needed, for example, on a button click event:
-  ```csharp
-  private void btnAnimate_Click(object sender, EventArgs e)
-  {
-    blendOutAnimation.Start();
-  }
-  ```
+```csharp
+private void btnAnimate_Click(object sender, EventArgs e)
+{
+  blendOutAnimation.Start();
+}
+```
   
 Make sure to adjust the values for duration and steps according to your requirements. <br>
 Repeat the above steps for other animation effects in the AnimationKit library.
@@ -189,5 +189,3 @@ Project Link: [https://github.com/lulv3z/AnimationKit](https://github.com/lulv3z
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
