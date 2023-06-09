@@ -17,11 +17,11 @@
     <a href="https://github.com/lulv3z/AnimationKit"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lulv3z/AnimationKit">Download</a>
+    <a href="https://github.com/lulv3z/AnimationKit/releases/latest">Download</a>
     ·
-    <a href="https://github.com/lulv3z/AnimationKit/issues">Report Bug</a>
+    <a href="https://github.com/lulv3z/AnimationKit/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/lulv3z/AnimationKit/issues">Request Feature</a>
+    <a href="https://github.com/lulv3z/AnimationKit/issues/new/choose">Request Feature</a>
   </p>
 </div>
 
