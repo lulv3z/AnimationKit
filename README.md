@@ -73,7 +73,6 @@ AnimationKit is a powerful library that provides a collection of animation effec
 - **Event-driven Animation Triggers:** AnimationKit supports event-driven animation triggers, allowing you to trigger animations based on specific user interactions or application events. For example, you can animate a button when it is clicked or show a sliding panel when a certain condition is met.
 
 - **Integration with WinForms:** AnimationKit seamlessly integrates with WinForms, making it easy to add animations to your existing projects. It provides a simple API and a set of extension methods that can be used directly on WinForms controls.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
@@ -115,7 +114,6 @@ private void btnAnimate_Click(object sender, EventArgs e)
 Make sure to adjust the values for duration and steps according to your requirements. <br>
 Repeat the above steps for other animation effects in the AnimationKit library.
    
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Examples -->
 ## Examples
@@ -157,7 +155,6 @@ namespace MyWinFormsApp
 
 See the [open issues](https://github.com/lulv3z/AnimationKit/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -167,7 +164,6 @@ See the [open issues](https://github.com/lulv3z/AnimationKit/issues) for a full 
 Contributions to the AnimationKit library are welcome! <br>
 If you find any issues or have suggestions for new animation effects or improvements, please open an issue or submit a pull request.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -176,7 +172,6 @@ If you find any issues or have suggestions for new animation effects or improvem
 
 The AnimationKit library is licensed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -186,6 +181,3 @@ The AnimationKit library is licensed under the MIT License. See `LICENSE.txt` fo
 lulv3z - [@lulv3z](https://twitter.com/lulv3z) - lulv3z.contact@gmail.com
 
 Project Link: [https://github.com/lulv3z/AnimationKit](https://github.com/lulv3z/AnimationKit)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
