@@ -79,15 +79,8 @@ AnimationKit is a powerful library that provides a collection of animation effec
 
 To get started with AnimationKit, please refer to the [Installation](#installation) and [Usage](#usage) sections of this README. There you will find instructions on how to install the library and examples on how to use it in your WinForms application.
 
-We hope AnimationKit will help you bring your WinForms applications to life with captivating animations. If you have any questions, issues, or feature requests, please don't hesitate to [create an issue](https://github.com/github_username/repo_name/issues). We appreciate your feedback and contributions!
+We hope AnimationKit will help you bring your WinForms applications to life with captivating animations. If you have any questions, issues, or feature requests, please don't hesitate to [create an issue](https://github.com/glulv3z/AnimationKit/issues). We appreciate your feedback and contributions!
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
