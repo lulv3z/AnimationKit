@@ -19,6 +19,8 @@
     <br />
     <a href="https://github.com/lulv3z/AnimationKit/releases/latest">Download</a>
     ·
+    <a href="https://github.com/lulv3z/AnimationKit/blob/master/CHANGELOG.md">Changelog</a>
+    ·
     <a href="https://github.com/lulv3z/AnimationKit/issues/new/choose">Report Bug</a>
     ·
     <a href="https://github.com/lulv3z/AnimationKit/issues/new/choose">Request Feature</a>
