@@ -152,7 +152,8 @@ namespace MyWinFormsApp
     - [X] BlendOutAnimation
     - [X] BlendInAnimation
     - [X] SlideAnimation
-    more Animations coming soon...
+
+more Animations coming soon...
 
 See the [open issues](https://github.com/lulv3z/AnimationKit/issues) for a full list of proposed features (and known issues).
 
