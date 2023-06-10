@@ -148,10 +148,11 @@ namespace MyWinFormsApp
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Animations
+- [X] Animations
     - [X] BlendOutAnimation
-    - [ ] BlendInAnimation
-    - [ ] SlideAnimation
+    - [X] BlendInAnimation
+    - [X] SlideAnimation
+    more Animations coming soon...
 
 See the [open issues](https://github.com/lulv3z/AnimationKit/issues) for a full list of proposed features (and known issues).
 

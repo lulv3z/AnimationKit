@@ -46,6 +46,7 @@
     <Compile Include="BlendInAnimation.cs" />
     <Compile Include="BlendOutAnimation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RotateAnimation.cs" />
     <Compile Include="SlideInHorizontalAnimation.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

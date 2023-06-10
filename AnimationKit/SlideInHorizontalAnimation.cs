@@ -7,6 +7,9 @@ using System.Windows.Forms;
 
 namespace AnimationKit
 {
+    /// <summary>
+    /// Represents a horizontal slide-in animation that moves a form from the left side.
+    /// </summary>
     public class SlideInHorizontalAnimation
     {
         private Timer timer;
@@ -17,6 +20,13 @@ namespace AnimationKit
         private int slideDistance;
         private int slideStep;
 
+        /// <summary>
+        /// Initializes a new instance of the SlideInHorizontalAnimation class.
+        /// </summary>
+        /// <param name="form">The form on which the slide effect will be applied.</param>
+        /// <param name="duration">The total duration of the slide effect in milliseconds.</param>
+        /// <param name="steps">The number of steps to achieve the slide effect.</param>
+        /// <param name="slideDistance">The total distance to slide the form.</param>
         public SlideInHorizontalAnimation(Form form, int duration, int steps, int slideDistance)
         {
             this.form = form; // Store the form on which the slide effect will be applied
@@ -28,6 +38,9 @@ namespace AnimationKit
             timer.Tick += Timer_Tick; // Add the event handler for the timer's Tick event
         }
 
+        /// <summary>
+        /// Starts the slide-in animation.
+        /// </summary>
         public void Start()
         {
             currentStep = 0; // Set the current step to 0
@@ -43,6 +56,7 @@ namespace AnimationKit
             if (currentStep >= steps)
             {
                 timer.Stop(); // Stop the timer when all steps are completed
+                // Animation completed
             }
             else
             {
